@@ -1,1 +1,1 @@
-# Linear-Regression-in-C-
+# Linear-Regression-in-C++
